@@ -41,7 +41,6 @@ about:
   license_file: LICENSE
   summary: 'Python NVD3 - Chart Library for d3.js'
 
-  # The remaining entries in this section are optional, but recommended
   description: |
       NVD3 is an attempt to build re-usable charts and chart components
       for d3.js without taking away the power that d3.js offers you.
