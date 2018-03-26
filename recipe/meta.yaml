@@ -1,6 +1,6 @@
 {% set name = "python-nvd3" %}
-{% set version = "0.14.2" %}
-{% set sha256 = "86ca51a9526ced2ebe8faff999b0660755f51f2d00af7871efba9b777470ae95" %}
+{% set version = "0.15.0" %}
+{% set sha256 = "fbd75ff47e0ef255b4aa4f3a8b10dc8b4024aa5a9a7abed5b2406bd3cb817715" %}
 
 package:
   name: {{ name|lower }}
